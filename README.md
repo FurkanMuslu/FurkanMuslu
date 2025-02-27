@@ -1,2 +1,2 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanMuslu&show_icons=true&locale=en" alt="FurkanMuslu" /></p>
-![Furkan Muslu's Stats](https://github-readme-stats.vercel.app/api?username=Furkan Muslu&theme=calm&show_icons=true&hide_border=false&count_private=true)<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanMuslu&show_icons=true&locale=en&layout=compact" alt="FurkanMuslu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanMuslu&show_icons=true" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanMuslu&show_icons=true&locale=en&layout=compact" /></p>
